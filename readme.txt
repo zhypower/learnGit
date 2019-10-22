@@ -5,3 +5,7 @@ git clone 'https://github.com/zhypower/learnGit.git'
 git commit -m "first commit"
 git remote add origin https://github.com/zhypower/learnGit.git
 git push -u origin master
+
+
+远程库与本地库不一致造成的，在hint中也有提示把远程库同步到本地库就可以了。
+git pull --rebase origin master
