@@ -1,4 +1,4 @@
-我们在学习～
+我们在学习～~
 首先，先本地创建文件夹，然后git init初始化文件夹为仓库
 然后，在本地创建一个文件，git add readme.txt
 git clone 'https://github.com/zhypower/learnGit.git'
