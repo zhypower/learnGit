@@ -10,6 +10,8 @@ git push -u origin master（重要）
 远程库与本地库不一致造成的，在hint中也有提示把远程库同步到本地库就可以了。
 git pull --rebase origin master
 
+实在无效可以：git push --force origin master
+
 这个时候我按老师的方法做，
 创建并切换分支
 
